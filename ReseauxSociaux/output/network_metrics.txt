@@ -1,0 +1,6 @@
+MÉTRIQUES DU RÉSEAU
+==================================================
+Nombre de joueurs: 37
+Nombre de connexions: 254
+Densité: 0.1906906906906907
+Diamètre: 4

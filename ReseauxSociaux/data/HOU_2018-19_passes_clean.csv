@@ -1,0 +1,275 @@
+PLAYER_ID,PLAYER_NAME_LAST_FIRST,PASS_TO,PASS_TEAMMATE_PLAYER_ID,PASS,AST
+1628979,"Duval, Trevon","Brown, Sterling",1628425,2,0
+1628979,"Duval, Trevon","Wilson, D.J.",1628391,7,0
+1628979,"Duval, Trevon","Connaughton, Pat",1626192,1,1
+1628979,"Duval, Trevon","Wood, Christian",1626174,3,0
+1628979,"Duval, Trevon","Ilyasova, Ersan",101141,1,1
+202697,"Shumpert, Iman","Chiozza, Chris",1629185,3,0
+202697,"Shumpert, Iman","Hartenstein, Isaiah",1628392,2,0
+202697,"Shumpert, Iman","House Jr., Danuel",1627863,17,1
+202697,"Shumpert, Iman","Capela, Clint",203991,16,2
+202697,"Shumpert, Iman","Jones, Terrence",203093,2,0
+202697,"Shumpert, Iman","Rivers, Austin",203085,30,4
+202697,"Shumpert, Iman","Faried, Kenneth",202702,16,4
+202697,"Shumpert, Iman","Harden, James",201935,75,1
+202697,"Shumpert, Iman","Gordon, Eric",201569,13,3
+202697,"Shumpert, Iman","Tucker, P.J.",200782,25,3
+202697,"Shumpert, Iman","Green, Gerald",101123,14,2
+202697,"Shumpert, Iman","Paul, Chris",101108,61,1
+202697,"Shumpert, Iman",Nene,2403,13,0
+202697,"Shumpert, Iman","Bagley III, Marvin",1628963,42,5
+202697,"Shumpert, Iman","Mason III, Frank",1628412,21,0
+202697,"Shumpert, Iman","Giles III, Harry",1628385,25,0
+202697,"Shumpert, Iman","Jackson, Justin",1628382,24,2
+202697,"Shumpert, Iman","Fox, De'Aaron",1628368,348,14
+202697,"Shumpert, Iman","Ferrell, Yogi",1627812,20,1
+202697,"Shumpert, Iman","Williams, Troy",1627786,2,1
+202697,"Shumpert, Iman","Labissiere, Skal",1627746,1,0
+202697,"Shumpert, Iman","Hield, Buddy",1627741,174,30
+202697,"Shumpert, Iman","Cauley-Stein, Willie",1626161,180,22
+202697,"Shumpert, Iman","Bogdanović, Bogdan",203992,58,4
+202697,"Shumpert, Iman","McLemore, Ben",203463,1,0
+202697,"Shumpert, Iman","Bjelica, Nemanja",202357,89,9
+202697,"Shumpert, Iman","Koufos, Kosta",201585,14,1
+1629185,"Chiozza, Chris","Clark, Gary",1629109,17,0
+1629185,"Chiozza, Chris","Hartenstein, Isaiah",1628392,1,0
+1629185,"Chiozza, Chris","House Jr., Danuel",1627863,2,0
+1629185,"Chiozza, Chris","Rivers, Austin",203085,10,2
+1629185,"Chiozza, Chris","Faried, Kenneth",202702,17,1
+1629185,"Chiozza, Chris","Green, Gerald",101123,3,1
+101108,"Paul, Chris","Clark, Gary",1629109,80,10
+101108,"Paul, Chris","Hartenstein, Isaiah",1628392,29,6
+101108,"Paul, Chris","House Jr., Danuel",1627863,86,22
+101108,"Paul, Chris","Chriss, Marquese",1627737,9,1
+101108,"Paul, Chris","Capela, Clint",203991,398,80
+101108,"Paul, Chris","Ennis III, James",203516,99,24
+101108,"Paul, Chris","Carter-Williams, Michael",203487,12,2
+101108,"Paul, Chris","Rivers, Austin",203085,123,15
+101108,"Paul, Chris","Faried, Kenneth",202702,104,30
+101108,"Paul, Chris","Shumpert, Iman",202697,61,9
+101108,"Paul, Chris","Knight, Brandon",202688,19,3
+101108,"Paul, Chris","Harden, James",201935,726,39
+101108,"Paul, Chris","Gordon, Eric",201569,522,107
+101108,"Paul, Chris","Tucker, P.J.",200782,330,55
+101108,"Paul, Chris","Green, Gerald",101123,215,49
+101108,"Paul, Chris","Anthony, Carmelo",2546,79,15
+101108,"Paul, Chris",Nene,2403,57,8
+1627863,"House Jr., Danuel","Chiozza, Chris",1629185,4,0
+1627863,"House Jr., Danuel","Clark, Gary",1629109,14,2
+1627863,"House Jr., Danuel","Hartenstein, Isaiah",1628392,3,0
+1627863,"House Jr., Danuel","Chriss, Marquese",1627737,7,1
+1627863,"House Jr., Danuel","Capela, Clint",203991,43,10
+1627863,"House Jr., Danuel","Ennis III, James",203516,3,0
+1627863,"House Jr., Danuel","Carter-Williams, Michael",203487,10,0
+1627863,"House Jr., Danuel","Rivers, Austin",203085,60,4
+1627863,"House Jr., Danuel","Faried, Kenneth",202702,3,1
+1627863,"House Jr., Danuel","Shumpert, Iman",202697,18,3
+1627863,"House Jr., Danuel","Knight, Brandon",202688,22,0
+1627863,"House Jr., Danuel","Harden, James",201935,254,2
+1627863,"House Jr., Danuel","Gordon, Eric",201569,40,3
+1627863,"House Jr., Danuel","Tucker, P.J.",200782,28,4
+1627863,"House Jr., Danuel","Green, Gerald",101123,23,7
+1627863,"House Jr., Danuel","Paul, Chris",101108,128,0
+1627863,"House Jr., Danuel",Nene,2403,13,3
+1629109,"Clark, Gary","Chiozza, Chris",1629185,10,0
+1629109,"Clark, Gary","Hartenstein, Isaiah",1628392,12,0
+1629109,"Clark, Gary","House Jr., Danuel",1627863,16,3
+1629109,"Clark, Gary","Chriss, Marquese",1627737,11,1
+1629109,"Clark, Gary","Capela, Clint",203991,11,0
+1629109,"Clark, Gary","Ennis III, James",203516,6,3
+1629109,"Clark, Gary","Carter-Williams, Michael",203487,35,1
+1629109,"Clark, Gary","Nunnally, James",203263,1,0
+1629109,"Clark, Gary","Jones, Terrence",203093,1,0
+1629109,"Clark, Gary","Rivers, Austin",203085,52,1
+1629109,"Clark, Gary","Faried, Kenneth",202702,3,0
+1629109,"Clark, Gary","Shumpert, Iman",202697,2,0
+1629109,"Clark, Gary","Knight, Brandon",202688,12,0
+1629109,"Clark, Gary","Harden, James",201935,142,1
+1629109,"Clark, Gary","Gordon, Eric",201569,31,3
+1629109,"Clark, Gary","Tucker, P.J.",200782,12,1
+1629109,"Clark, Gary","Green, Gerald",101123,40,4
+1629109,"Clark, Gary","Paul, Chris",101108,107,0
+1629109,"Clark, Gary","Anthony, Carmelo",2546,1,0
+1629109,"Clark, Gary",Nene,2403,7,0
+201569,"Gordon, Eric","Clark, Gary",1629109,21,2
+201569,"Gordon, Eric","Edwards, Vincent",1629053,1,0
+201569,"Gordon, Eric","Hartenstein, Isaiah",1628392,11,2
+201569,"Gordon, Eric","House Jr., Danuel",1627863,41,8
+201569,"Gordon, Eric","Chriss, Marquese",1627737,1,0
+201569,"Gordon, Eric","Capela, Clint",203991,208,35
+201569,"Gordon, Eric","Ennis III, James",203516,40,10
+201569,"Gordon, Eric","Carter-Williams, Michael",203487,16,0
+201569,"Gordon, Eric","Nunnally, James",203263,1,0
+201569,"Gordon, Eric","Jones, Terrence",203093,1,0
+201569,"Gordon, Eric","Rivers, Austin",203085,79,4
+201569,"Gordon, Eric","Faried, Kenneth",202702,55,8
+201569,"Gordon, Eric","Shumpert, Iman",202697,8,1
+201569,"Gordon, Eric","Knight, Brandon",202688,5,0
+201569,"Gordon, Eric","Harden, James",201935,397,5
+201569,"Gordon, Eric","Tucker, P.J.",200782,147,18
+201569,"Gordon, Eric","Green, Gerald",101123,62,18
+201569,"Gordon, Eric","Paul, Chris",101108,326,6
+201569,"Gordon, Eric","Anthony, Carmelo",2546,18,3
+201569,"Gordon, Eric",Nene,2403,40,5
+1629053,"Edwards, Vincent","Clark, Gary",1629109,2,0
+1629053,"Edwards, Vincent","Ennis III, James",203516,1,0
+1629053,"Edwards, Vincent","Green, Gerald",101123,5,0
+201935,"Harden, James","Clark, Gary",1629109,71,13
+201935,"Harden, James","Hartenstein, Isaiah",1628392,28,5
+201935,"Harden, James","House Jr., Danuel",1627863,187,38
+201935,"Harden, James","Chriss, Marquese",1627737,4,1
+201935,"Harden, James","Capela, Clint",203991,685,220
+201935,"Harden, James","Ennis III, James",203516,162,27
+201935,"Harden, James","Carter-Williams, Michael",203487,20,3
+201935,"Harden, James","Nunnally, James",203263,4,1
+201935,"Harden, James","Jones, Terrence",203093,1,0
+201935,"Harden, James","Rivers, Austin",203085,319,20
+201935,"Harden, James","Faried, Kenneth",202702,141,35
+201935,"Harden, James","Shumpert, Iman",202697,59,6
+201935,"Harden, James","Knight, Brandon",202688,7,0
+201935,"Harden, James","Gordon, Eric",201569,584,69
+201935,"Harden, James","Tucker, P.J.",200782,561,67
+201935,"Harden, James","Green, Gerald",101123,282,46
+201935,"Harden, James","Paul, Chris",101108,611,14
+201935,"Harden, James","Anthony, Carmelo",2546,58,6
+201935,"Harden, James",Nene,2403,80,15
+101123,"Green, Gerald","Chiozza, Chris",1629185,9,1
+101123,"Green, Gerald","Clark, Gary",1629109,17,3
+101123,"Green, Gerald","Edwards, Vincent",1629053,4,0
+101123,"Green, Gerald","Hartenstein, Isaiah",1628392,15,1
+101123,"Green, Gerald","House Jr., Danuel",1627863,19,2
+101123,"Green, Gerald",Zhou Qi,1627753,1,1
+101123,"Green, Gerald","Chriss, Marquese",1627737,22,2
+101123,"Green, Gerald","Capela, Clint",203991,58,7
+101123,"Green, Gerald","Ennis III, James",203516,13,1
+101123,"Green, Gerald","Carter-Williams, Michael",203487,33,0
+101123,"Green, Gerald","Nunnally, James",203263,2,0
+101123,"Green, Gerald","Jones, Terrence",203093,1,0
+101123,"Green, Gerald","Rivers, Austin",203085,101,3
+101123,"Green, Gerald","Faried, Kenneth",202702,29,2
+101123,"Green, Gerald","Shumpert, Iman",202697,10,2
+101123,"Green, Gerald","Knight, Brandon",202688,15,0
+101123,"Green, Gerald","Harden, James",201935,387,4
+101123,"Green, Gerald","Gordon, Eric",201569,69,3
+101123,"Green, Gerald","Tucker, P.J.",200782,52,4
+101123,"Green, Gerald","Paul, Chris",101108,189,0
+101123,"Green, Gerald","Anthony, Carmelo",2546,8,0
+101123,"Green, Gerald",Nene,2403,38,3
+203991,"Capela, Clint","Chiozza, Chris",1629185,1,0
+203991,"Capela, Clint","Clark, Gary",1629109,14,2
+203991,"Capela, Clint","House Jr., Danuel",1627863,32,5
+203991,"Capela, Clint","Ennis III, James",203516,26,4
+203991,"Capela, Clint","Carter-Williams, Michael",203487,46,1
+203991,"Capela, Clint","Rivers, Austin",203085,85,5
+203991,"Capela, Clint","Faried, Kenneth",202702,1,0
+203991,"Capela, Clint","Shumpert, Iman",202697,15,1
+203991,"Capela, Clint","Knight, Brandon",202688,32,1
+203991,"Capela, Clint","Harden, James",201935,1535,28
+203991,"Capela, Clint","Gordon, Eric",201569,230,21
+203991,"Capela, Clint","Tucker, P.J.",200782,100,13
+203991,"Capela, Clint","Green, Gerald",101123,64,11
+203991,"Capela, Clint","Paul, Chris",101108,808,4
+203991,"Capela, Clint","Anthony, Carmelo",2546,18,1
+200782,"Tucker, P.J.","Clark, Gary",1629109,7,1
+200782,"Tucker, P.J.","Hartenstein, Isaiah",1628392,7,0
+200782,"Tucker, P.J.","House Jr., Danuel",1627863,39,3
+200782,"Tucker, P.J.","Chriss, Marquese",1627737,3,0
+200782,"Tucker, P.J.","Capela, Clint",203991,154,14
+200782,"Tucker, P.J.","Ennis III, James",203516,39,5
+200782,"Tucker, P.J.","Carter-Williams, Michael",203487,22,0
+200782,"Tucker, P.J.","Nunnally, James",203263,7,1
+200782,"Tucker, P.J.","Rivers, Austin",203085,142,9
+200782,"Tucker, P.J.","Faried, Kenneth",202702,27,5
+200782,"Tucker, P.J.","Shumpert, Iman",202697,25,1
+200782,"Tucker, P.J.","Knight, Brandon",202688,9,1
+200782,"Tucker, P.J.","Harden, James",201935,1043,12
+200782,"Tucker, P.J.","Gordon, Eric",201569,206,19
+200782,"Tucker, P.J.","Green, Gerald",101123,76,15
+200782,"Tucker, P.J.","Paul, Chris",101108,455,7
+200782,"Tucker, P.J.","Anthony, Carmelo",2546,8,1
+200782,"Tucker, P.J.",Nene,2403,26,2
+203085,"Rivers, Austin","Chiozza, Chris",1629185,9,0
+203085,"Rivers, Austin","Clark, Gary",1629109,27,6
+203085,"Rivers, Austin","Hartenstein, Isaiah",1628392,8,0
+203085,"Rivers, Austin","House Jr., Danuel",1627863,54,10
+203085,"Rivers, Austin","Chriss, Marquese",1627737,9,1
+203085,"Rivers, Austin","Capela, Clint",203991,93,3
+203085,"Rivers, Austin","Ennis III, James",203516,27,6
+203085,"Rivers, Austin","Nunnally, James",203263,7,1
+203085,"Rivers, Austin","Jones, Terrence",203093,4,1
+203085,"Rivers, Austin","Faried, Kenneth",202702,73,8
+203085,"Rivers, Austin","Shumpert, Iman",202697,21,3
+203085,"Rivers, Austin","Knight, Brandon",202688,18,1
+203085,"Rivers, Austin","Monroe, Greg",202328,1,0
+203085,"Rivers, Austin","Harden, James",201935,322,7
+203085,"Rivers, Austin","Gordon, Eric",201569,102,19
+203085,"Rivers, Austin","Tucker, P.J.",200782,83,13
+203085,"Rivers, Austin","Green, Gerald",101123,105,19
+203085,"Rivers, Austin","Paul, Chris",101108,101,0
+203085,"Rivers, Austin",Nene,2403,85,9
+203085,"Rivers, Austin","Brown Jr., Troy",1628972,19,1
+203085,"Rivers, Austin","Robinson, Devin",1628421,3,1
+203085,"Rivers, Austin","Bryant, Thomas",1628418,17,5
+203085,"Rivers, Austin","Oubre Jr., Kelly",1626162,94,12
+203085,"Rivers, Austin","Dekker, Sam",1626155,1,0
+203085,"Rivers, Austin","McRae, Jordan",203895,4,0
+203085,"Rivers, Austin","Porter Jr., Otto",203490,31,3
+203085,"Rivers, Austin","Satoransky, Tomas",203107,117,3
+203085,"Rivers, Austin","Beal, Bradley",203078,95,9
+203085,"Rivers, Austin","Morris, Markieff",202693,71,7
+203085,"Rivers, Austin","Wall, John",202322,106,4
+203085,"Rivers, Austin","Smith, Jason",201160,15,1
+203085,"Rivers, Austin","Green, Jeff",201145,97,11
+203085,"Rivers, Austin","Mahinmi, Ian",101133,21,0
+203085,"Rivers, Austin","Howard, Dwight",2730,4,0
+202702,"Faried, Kenneth","Kurucs, Rodions",1629066,5,0
+202702,"Faried, Kenneth","Musa, Dzanan",1629058,5,0
+202702,"Faried, Kenneth","Pinson, Theo",1629033,14,1
+202702,"Faried, Kenneth","Graham, Treveon",1626203,2,0
+202702,"Faried, Kenneth","Hollis-Jefferson, Rondae",1626178,7,0
+202702,"Faried, Kenneth","Russell, D'Angelo",1626156,8,0
+202702,"Faried, Kenneth","Dinwiddie, Spencer",203915,12,0
+202702,"Faried, Kenneth","Napier, Shabazz",203894,53,0
+202702,"Faried, Kenneth","Crabbe, Allen",203459,6,0
+202702,"Faried, Kenneth","Davis, Ed",202334,4,0
+202702,"Faried, Kenneth","Carroll, DeMarre",201960,3,0
+202702,"Faried, Kenneth","Dudley, Jared",201162,3,1
+202702,"Faried, Kenneth","Chiozza, Chris",1629185,18,1
+202702,"Faried, Kenneth","Clark, Gary",1629109,7,0
+202702,"Faried, Kenneth","House Jr., Danuel",1627863,11,1
+202702,"Faried, Kenneth","Capela, Clint",203991,4,1
+202702,"Faried, Kenneth","Ennis III, James",203516,8,0
+202702,"Faried, Kenneth","Rivers, Austin",203085,82,0
+202702,"Faried, Kenneth","Shumpert, Iman",202697,5,0
+202702,"Faried, Kenneth","Harden, James",201935,282,4
+202702,"Faried, Kenneth","Gordon, Eric",201569,63,3
+202702,"Faried, Kenneth","Tucker, P.J.",200782,21,2
+202702,"Faried, Kenneth","Green, Gerald",101123,31,2
+202702,"Faried, Kenneth","Paul, Chris",101108,187,4
+202702,"Faried, Kenneth",Nene,2403,1,0
+2403,Nene,"Clark, Gary",1629109,9,1
+2403,Nene,"House Jr., Danuel",1627863,28,3
+2403,Nene,"Ennis III, James",203516,6,3
+2403,Nene,"Carter-Williams, Michael",203487,14,1
+2403,Nene,"Nunnally, James",203263,1,0
+2403,Nene,"Rivers, Austin",203085,89,3
+2403,Nene,"Faried, Kenneth",202702,1,0
+2403,Nene,"Shumpert, Iman",202697,9,1
+2403,Nene,"Knight, Brandon",202688,19,0
+2403,Nene,"Harden, James",201935,221,4
+2403,Nene,"Gordon, Eric",201569,50,5
+2403,Nene,"Tucker, P.J.",200782,11,0
+2403,Nene,"Green, Gerald",101123,38,4
+2403,Nene,"Paul, Chris",101108,102,1
+1628392,"Hartenstein, Isaiah","Clark, Gary",1629109,9,0
+1628392,"Hartenstein, Isaiah","House Jr., Danuel",1627863,8,3
+1628392,"Hartenstein, Isaiah","Ennis III, James",203516,3,0
+1628392,"Hartenstein, Isaiah","Carter-Williams, Michael",203487,30,1
+1628392,"Hartenstein, Isaiah","Rivers, Austin",203085,12,1
+1628392,"Hartenstein, Isaiah","Shumpert, Iman",202697,2,0
+1628392,"Hartenstein, Isaiah","Harden, James",201935,65,0
+1628392,"Hartenstein, Isaiah","Gordon, Eric",201569,20,2
+1628392,"Hartenstein, Isaiah","Tucker, P.J.",200782,7,2
+1628392,"Hartenstein, Isaiah","Green, Gerald",101123,22,4
+1628392,"Hartenstein, Isaiah","Paul, Chris",101108,60,1
+1628392,"Hartenstein, Isaiah","Anthony, Carmelo",2546,3,1
